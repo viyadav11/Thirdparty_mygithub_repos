@@ -76,4 +76,5 @@ group :test do
   gem 'webmock'
 end
 gem "rest-client"
+gem 'kaminari'
 
